@@ -2,7 +2,7 @@
 
 ### [Live Site](https://freda-portfolio.netlify.app/)
 
-![Portfolio Website](https://res.cloudinary.com/defgcg7hn/image/upload/v1665510541/apps/portfolio/Screenshot_2022-10-11_at_19.44.32_waxow0.png)
+![Portfolio Website](https://res.cloudinary.com/defgcg7hn/image/upload/v1666037852/apps/portfolio/Screenshot_2022-10-17_at_22.16.08_ipme1g.png)
 
 ![Portfolio Website](https://res.cloudinary.com/defgcg7hn/image/upload/v1665510549/apps/portfolio/Screenshot_2022-10-11_at_19.44.56_djgunc.png)
 
